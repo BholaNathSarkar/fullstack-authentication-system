@@ -126,9 +126,10 @@ REDIRECT_URI=http://localhost:5173/profile
 ## 🛠️ Installation & Setup
 ### 1. Clone the repository
 
+
+git clone [https://github.com/BholaNathSarkar/fullstack-authentication-system.git](https://github.com/BholaNathSarkar/fullstack-authentication-system.git)
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+cd fullstack-authentication-system
 ```
 ### 2. Install server and client dependencies
 
@@ -163,3 +164,27 @@ OAuth login via /api/auth/google, /github, or /twitter
 On success, users are redirected to the frontend (REDIRECT_URI) with a JWT token
 
 Protected routes are secured using passport-jwt middleware
+
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/8f1eb1e9-d3dc-4af2-9903-e2b715b8b062)
+![image](https://github.com/user-attachments/assets/cc766f2b-c428-4d90-b68a-7fbfae60ef1c)
+![image](https://github.com/user-attachments/assets/fa40d2bb-b546-4f46-af1f-dc7aefe186ec)
+![image](https://github.com/user-attachments/assets/a8f4bcde-8207-4648-9898-1efb50c1c94a)
+![image](https://github.com/user-attachments/assets/6c798fbc-7717-451a-bc53-c114e7e0d924)
+![image](https://github.com/user-attachments/assets/b20ba5bb-cf14-4908-a875-597bf09fe8e6)
+![image](https://github.com/user-attachments/assets/8130d4c9-9277-4130-800a-b29195e42ed2)
+![image](https://github.com/user-attachments/assets/3d264de2-d45c-4c0f-96d7-3cdb88f96da3)
+![image](https://github.com/user-attachments/assets/4850cd4b-6674-4574-ba90-6efab12fbf5c)
+
+
+## 🧑‍💻 Author
+Bhola Nath Sarkar
+
+
+
+
+
+
+
+
+
